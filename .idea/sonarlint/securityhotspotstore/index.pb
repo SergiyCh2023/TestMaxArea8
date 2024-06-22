@@ -7,3 +7,7 @@ S
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 W
 'src/main/java/org/example/Solution.java,6\c\6cf0bf32195e131cd829d5373c70f2a8af245243
+P
+ src/test/java/SolutionTests.java,d\2\d2e215983e80ef11c9ebb897e6ad3d2c6b6ab077
+b
+2src/main/java/org/example/OneElementException.java,d\f\dfe342ef90225b3d23ce91bb242cdf63242cf684
