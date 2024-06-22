@@ -10,7 +10,7 @@ on:
 
 jobs:
       build:
-        runs-on: windows-latest
+        runs-on: windows-10 enterprise
 
         steps:
           - uses: actions/checkout@v3
