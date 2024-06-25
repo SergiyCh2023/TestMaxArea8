@@ -10,7 +10,8 @@ on:
 
 jobs:
       build:
-        runs-on: windows-10 enterprise
+        runs-on: windows
+        version: 10
 
         steps:
           - uses: actions/checkout@v4  # пише шо це вже застаріло
