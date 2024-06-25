@@ -21,4 +21,4 @@ jobs:
               distribution: 'temurin'
 
           - name: Test with gradle
-            run: ./gradlew test --tests SolutionTests
+            run: npm test
