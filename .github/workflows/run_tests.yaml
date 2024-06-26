@@ -22,4 +22,4 @@ jobs:
               distribution: 'temurin'
 
           - name: Test with gradle
-            run: ./gradlew test --tests SolutionTest
+            run: ./gradlew test --tests SolutionTests
